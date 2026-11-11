@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=01_Bridge_Stage.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Bridge_Stage.SchDoc|FileName=02_MosfetDrive_Stage.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Bridge_Stage.SchDoc|FileName=03_Headers-Mesaurements.SchDoc|SheetNumber=3
